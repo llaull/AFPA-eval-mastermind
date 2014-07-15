@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MasterMind
 {
+    /// <summary>
+    /// C'est de la balle!
+    /// </summary>
     class RandoNumber
     {
         Random random = new Random(DateTime.Now.Millisecond);
