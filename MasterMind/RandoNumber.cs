@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace MasterMind
 {
     /// <summary>
-    /// C'est de la balle!
-    /// Ah non c'est la cata en fait..
+    /// C'est de la balle! vive github
+    /// Ah non c'est la cata en fait... j'aime bien le hobie cat
     /// </summary>
     class RandoNumber
     {
