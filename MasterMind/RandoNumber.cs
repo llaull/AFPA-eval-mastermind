@@ -8,6 +8,7 @@ namespace MasterMind
 {
     /// <summary>
     /// C'est de la balle!
+    /// Ah non c'est la cata en fait..
     /// </summary>
     class RandoNumber
     {

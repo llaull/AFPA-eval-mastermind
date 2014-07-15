@@ -7,3 +7,6 @@ C:\Users\llovem.eu\OneDrive\afpaDL2014\visual studio 2012\Projects\MasterMind\Ma
 C:\Temp\laul\MasterMind\bin\Debug\MasterMind.exe.config
 C:\Temp\laul\MasterMind\obj\Debug\MasterMind.exe
 C:\Temp\laul\MasterMind\obj\Debug\MasterMind.pdb
+C:\Temp\laul\MasterMind\bin\Debug\MasterMind.exe
+C:\Temp\laul\MasterMind\bin\Debug\MasterMind.pdb
+C:\Temp\laul\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
